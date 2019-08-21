@@ -85,3 +85,7 @@
 • sudo adduser deneme
 • sudo deluser deneme
 • sudo chown john:john file
+• git add .
+• git commit -m "Mesaj yaz"
+• git push origin master
+
