@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ip=$(curl https://api.ipify.org/ --silent)
+
+echo $ip

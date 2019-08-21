@@ -1,0 +1,9 @@
+#!/bin/bash
+
+site=$1
+
+sonuc=$(ping $site -c1 -W1 | grep $site | head -n 1 | cut -d" " -f3)
+
+echo $sonuc
+
+

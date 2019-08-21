@@ -1,0 +1,13 @@
+#!/bin/bash
+
+dosya_adi=$1
+md5_hash=$2
+
+bulunan_hash=$(md5sum $dosya_adi | cut -d " " -f1)
+
+if [ $md5_hash = $bulunan_hash ]
+then
+	echo "Hashler eşit."
+else
+	echo "Hashler eşit değil!"
+fi
