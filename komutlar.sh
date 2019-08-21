@@ -84,4 +84,4 @@
 • echo fatih{1000..1500}
 • sudo adduser deneme
 • sudo deluser deneme
-
+• sudo chown john:john file
