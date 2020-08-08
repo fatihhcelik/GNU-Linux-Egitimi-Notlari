@@ -34,7 +34,7 @@ Bu depo 19-21 Ağustos tarihleri arasında siber küme yaz kampında vermiş old
 * Linux Bible - Christopher Negus
 * Linux Command Line and Shell Scripting Bible - Richard Blum & Christine Bresnahan
 
-## Takip edilebilecek gereken depolar
+## Takip edilebilecek depolar
 
 * https://github.com/aleksandar-todorovic/awesome-linux
 * https://github.com/luong-komorebi/Awesome-Linux-Software
